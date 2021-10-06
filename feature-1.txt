@@ -1,2 +1,2 @@
-line 1 of feature 1
+line 1 of feature 1 edited
 line 2 of feature 1
